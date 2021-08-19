@@ -1,2 +1,2 @@
-# XEROM_Maltlab
-XEROM code
+# XEROM_ROM_Analytical
+XEROM Analytical model
